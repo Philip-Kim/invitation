@@ -1,5 +1,6 @@
 # Invitation
-Online Wedding Invitation (모바일 청첩장)
+Online Wedding Invitation (모바일 청첩장)<br/>
+[See online - mobile only (https://philip-kim.github.io/invitation)](https://philip-kim.github.io/invitation/)
 <br/><br/>
 # Tech stacks used
 React.js, jQuery, Powerpoint, mspaint.exe, etc.
